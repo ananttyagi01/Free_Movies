@@ -1,0 +1,2 @@
+# Free_Movies
+ FreeMovies Developed a React Native Movies App which presents movies of various categories. Provides users with detailed information such as plot summaries, genres, and ratings. A robust search function simplifies finding specific movies. Through seamless API integration, the app ensures real-time, up-to-date movie data. The app is built on the React Native framework using Javascript.
